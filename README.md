@@ -1,3 +1,2 @@
-# image-gallery-test
-
-Generated application for image-gallery-test
+bash
+    git clone https://github.com/Chandhru2k5/image-gallery-test.git
